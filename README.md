@@ -9,12 +9,14 @@
 
 
 ## Reach me with
-+ [my blog](https://lordofwill.github.io/) 
++ [my blog](https://lordofwill.github.io/)
++ mail: milleniumnomad@gmail.com
 
 
 ## Github stats
 
 [![Soul-Kee's github stats](https://github-readme-stats.vercel.app/api?username=lordofwill)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flordofwill%2F&count_bg=%233DC8C1&title_bg=%23555555&icon=&icon_color=gradient&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Tools 
 
