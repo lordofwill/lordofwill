@@ -8,8 +8,8 @@
 + learned about deep learning model at [Aiffel](https://lms.aiffel.io/)
 
 ## Reach me with
-+ [my blog](https://lordofwill.github.io/)
-+ mail: milleniumnomad@gmail.com
++ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sda96.github.io/)](https://lordofwill.github.io/)
++ ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrckdgus96@gmail.com): milleniumnomad@gmail.com
 
 ## Tools 
 <div align = "center">
