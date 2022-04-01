@@ -5,7 +5,7 @@
 
 ## History
 + learned mobile coding at http://gj.korchamhrd.net/ 2019/09/17 - 2020/08/04
-+ learned about deep learning model at [Aiffel](https://lms.aiffel.io/)
++ learned about deep learning model at [Aiffel](https://lms.aiffel.io/) 2021/09/06 - 2022/03/11
 
 ## Reach me with
 + [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sda96.github.io/)](https://lordofwill.github.io/): https://lordofwill.github.io
